@@ -1,0 +1,3 @@
+C:\Users\petar\source\repos\EntityRelations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.dll
+C:\Users\petar\source\repos\EntityRelations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.AssemblyInfoInputs.cache
+C:\Users\petar\source\repos\EntityRelations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.AssemblyInfo.cs

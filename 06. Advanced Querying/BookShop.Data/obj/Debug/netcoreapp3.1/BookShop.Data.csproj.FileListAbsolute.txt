@@ -1,0 +1,12 @@
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csprojAssemblyReference.cache
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb

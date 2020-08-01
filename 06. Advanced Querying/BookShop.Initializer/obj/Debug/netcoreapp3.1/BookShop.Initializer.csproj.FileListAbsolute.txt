@@ -1,0 +1,14 @@
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.deps.json
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.dll
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.pdb
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csprojAssemblyReference.cache
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfoInputs.cache
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfo.cs
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CopyComplete
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.dll
+D:\SoftUni\C# Entity Framework Core\06. Advanced Querying\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.pdb

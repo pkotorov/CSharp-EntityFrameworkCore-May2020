@@ -18,6 +18,7 @@
         {
             var projects = context
                 .Projects
+                .ToArray()
                 .Where(p => p.Tasks.Count > 0)
                 .Select(p => new ExportProjectsDto
                 {
@@ -42,11 +43,6 @@
             var namespaces = new XmlSerializerNamespaces();
             namespaces.Add(string.Empty, string.Empty);
 
-            var xws = new XmlWriterSettings
-            {
-                Encoding = Encoding.UTF8
-            };
-
             StringBuilder sb = new StringBuilder();
 
             using (StringWriter sw = new StringWriter(sb))
@@ -61,11 +57,15 @@
         {
             var employees = context
                 .Employees
-                .Where(e => e.EmployeesTasks.Any(et => et.Task.OpenDate >= date) && e.EmployeesTasks.Count > 0)
+                .ToArray()
+                .Where(e => e.EmployeesTasks.Any(et => et.Task.OpenDate >= date))
                 .Select(e => new
                 {
                     Username = e.Username,
                     Tasks = e.EmployeesTasks
+                        .Where(et => et.Task.OpenDate >= date)
+                        .OrderByDescending(x => x.Task.DueDate)
+                        .ThenBy(x => x.Task.Name)
                         .Select(et => new
                         {
                             TaskName = et.Task.Name,
@@ -74,11 +74,9 @@
                             LabelType = et.Task.LabelType.ToString(),
                             ExecutionType = et.Task.ExecutionType.ToString()
                         })
-                        .OrderByDescending(x => DateTime.ParseExact(x.DueDate, "MM/dd/yyyy", CultureInfo.InvariantCulture))
-                        .ThenBy(x => x.TaskName)
                         .ToArray()
                 })
-                .OrderByDescending(e => e.Tasks.Count())
+                .OrderByDescending(e => e.Tasks.Length)
                 .ThenBy(e => e.Username)
                 .Take(10)
                 .ToArray();
